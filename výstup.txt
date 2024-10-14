@@ -1,0 +1,10 @@
+Timestamp                |Level|    Method            Message
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 5645657
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 15619
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 1234187
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 211
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 7
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 9788677
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 23311
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 54881
+2024-10-14 20:59:39 (INFO) - readExcelFile | Prime number is: 2147483647
