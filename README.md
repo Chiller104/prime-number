@@ -10,7 +10,7 @@ This is a simple Java application that reads an Excel file and logs all prime nu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Chiller104/prime-number.git
+    git clone -b master https://github.com/Chiller104/prime-number.git
     cd prime-number
     ```
 
